@@ -1,4 +1,4 @@
-<div style="background-color: #FFD700; padding: 20px;">
+<div style="background-color: #FFAAA0; padding: 20px;">
   - 👋 Hola, soy @AndresFilgueira
 </div>
 - 👋 Hola, soy @AndresFilgueira
