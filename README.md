@@ -1,7 +1,7 @@
 
 # 👋 Hola, soy @AndresFilgueira
 
-![imagen](URL_de_la_imagen)
+![imagen](andrazer.png)
 
 ###  👀 Soy estudiante del Grado de Ingeniería Informática en la UOC
 ### 📫 andrazer@uoc.edu
