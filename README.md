@@ -1,3 +1,6 @@
+<div style="background-color: #FFD700; padding: 20px;">
+  - 👋 Hola, soy @AndresFilgueira
+</div>
 - 👋 Hola, soy @AndresFilgueira
 - 👀 Soy estudiante del Grado de Ingeniería Informática en la UOC
 - 📫 andrazer@uoc.edu
