@@ -1,7 +1,10 @@
 
 # 👋 Hola, soy @AndresFilgueira
-##  👀 Soy estudiante del Grado de Ingeniería Informática en la UOC
-- 📫 andrazer@uoc.edu
+
+![imagen](URL_de_la_imagen)
+
+###  👀 Soy estudiante del Grado de Ingeniería Informática en la UOC
+### 📫 andrazer@uoc.edu
 
 <!---
 AndresFilgueira/AndresFilgueira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
