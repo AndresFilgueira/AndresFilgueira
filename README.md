@@ -1,5 +1,5 @@
 - 👋 Hola, soy @AndresFilgueira
-- 👀 Soy estudiante del Grado de Ingenieria Informática en la UOC
+- 👀 Soy estudiante del Grado de Ingeniería Informática en la UOC
 - 📫 andrazer@uoc.edu
 
 <!---
